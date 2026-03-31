@@ -1,0 +1,11 @@
+﻿# 通用配置模板
+seed: 42
+
+data_dir: data
+model_dir: models
+
+num_epochs: 5
+learning_rate: 0.001
+batch_size: 32
+
+device: cpu

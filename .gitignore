@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+conda-meta/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Data
+data/
+datasets/
+
+# Model weights
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# System
+.DS_Store
+Thumbs.db
